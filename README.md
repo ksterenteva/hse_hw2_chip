@@ -8,9 +8,25 @@
 
 #### Пол:
 - Мужской
-- 
+  
 #### Возраст на момент забора:
 - Стадия бластоцисты (около 5–6 дней после оплодотворения)
+
+## Fastqc
+
+#### Результаты до триммирования
+<div style="display: flex; justify-content: space-between;">
+<img width="30%" alt="Снимок экрана 2025-03-09 в 21 23 15" src="https://github.com/user-attachments/assets/42035d55-002d-4dbb-8bf2-9b93841c8c1d" />
+<img width="30%" alt="Снимок экрана 2025-03-09 в 21 23 25" src="https://github.com/user-attachments/assets/fe3876ec-7123-474d-8f46-d4bfd5639a06" />
+<img width="30%" alt="Снимок экрана 2025-03-09 в 21 23 37" src="https://github.com/user-attachments/assets/67693e6a-b21e-481f-86b3-1c62e1a2003a" />
+</div>
+
+#### Результаты после триммирования 
+<div style="display: flex; justify-content: space-between;">
+<img width="30%" alt="Снимок экрана 2025-03-09 в 21 25 03" src="https://github.com/user-attachments/assets/ec8aadc8-b43d-4be6-a129-8875108c585a" />
+<img width="30%" alt="Снимок экрана 2025-03-09 в 21 25 19" src="https://github.com/user-attachments/assets/c2f241dd-3c3f-4ed5-a2ac-01bd6b07dee3" />
+<img width="30%" alt="Снимок экрана 2025-03-09 в 21 25 25" src="https://github.com/user-attachments/assets/d71081f9-d8f6-474d-9363-1e82ab076aae" />
+</div>
 
 ## Таблица со статистикой по каждому из  образцов:
 
@@ -20,3 +36,4 @@
 | Уникально выравненные    | 396647 (4.47%)    | 588740 (2.97%)    | 242561 (2.59%)    |
 | Не уникально выравненные   | 1216103 (13.70%)  | 2309185 (11.65%)   | 831645 (8.89%)   |
 | Не выравнилось   | 7262111 (81.83%)   | 16927116 (85.38%)   | 8283561 (88.52%)   |
+
