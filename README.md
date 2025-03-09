@@ -1,6 +1,8 @@
 # hse_hw2_chip
 
-# Основная часть 
+# Основная часть
+[Ссылка на основную часть гугл коллаб](https://colab.research.google.com/drive/1pGWjxTGfYP6aowHGAn_3wu2aT8qb-J86?authuser=2#scrollTo=0mOfy-cbtyog)
+[Ccылка на сравнение результатов и бонусную часть](https://colab.research.google.com/drive/1tDhpZplVbDVBcQaChzt9HFF9GaoIKPnx?usp=sharing)
 
 ## Описание клеточной линии
 
