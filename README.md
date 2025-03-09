@@ -52,9 +52,9 @@
 ASU = ENCFF137PVL
 ARK = ENCFF171DUV 
 
-[Intervene_venn-3.pdf](https://github.com/user-attachments/files/19151392/Intervene_venn-3.pdf)
+<img width="813" alt="Снимок экрана 2025-03-09 в 23 32 09" src="https://github.com/user-attachments/assets/613136f0-190d-4fd6-9329-6dfb982d24db" />
+<img width="956" alt="Снимок экрана 2025-03-09 в 23 32 20" src="https://github.com/user-attachments/assets/8918fcaf-2dd9-4a16-85b6-24075c86f2fd" />
 
-[Intervene_venn-4.pdf](https://github.com/user-attachments/files/19151393/Intervene_venn-4.pdf)
 
 В данных репликах было не такое большое количество пиков из-за выравнивания только на одну хромосому 14 из-за ограниченных ресурсов, однако образец ENCODE был выровнен на все хромосомы, соответственно, имеет гораздо большее количество пиков.
 
